@@ -1,0 +1,7 @@
+D:\Devansh\C Sharp\ex\ex\bin\Debug\ex.exe.config
+D:\Devansh\C Sharp\ex\ex\bin\Debug\ex.exe
+D:\Devansh\C Sharp\ex\ex\bin\Debug\ex.pdb
+D:\Devansh\C Sharp\ex\ex\obj\Debug\ex.csproj.AssemblyReference.cache
+D:\Devansh\C Sharp\ex\ex\obj\Debug\ex.csproj.CoreCompileInputs.cache
+D:\Devansh\C Sharp\ex\ex\obj\Debug\ex.exe
+D:\Devansh\C Sharp\ex\ex\obj\Debug\ex.pdb
